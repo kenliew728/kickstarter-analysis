@@ -11,4 +11,7 @@
 - Canceled: 37 
 * Aside from analyzing total outcomes, the study also break down the category into monthly bucket to observe the trend of successful, failed, and canceled campaign. Here is a snapshot of the monthly trend chart breaking down into total successful, failed, and canceled campaign. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70525492/92652912-375b0080-f2b3-11ea-952a-5901e397599f.png)
-* To add in another layer of analysis, the study also look into the percentage of successful, failed, and cancels campaign in relation to campaign goal range. The purpose of this analysis is to understand if the goal amount constribute to higher campaign success rate.  
+---
+*Analysis of Outcomes Based on Goals*
+* To further analyze the trend, the study also look into the percentage of successful, failed, and cancels campaign in relation to campaign goal range. The purpose of this analysis is to understand if the range of goal amount constribute to higher campaign success rate.  
+The chart below previews the Outcome based on Goals
