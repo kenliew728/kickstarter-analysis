@@ -13,5 +13,9 @@
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70525492/92652912-375b0080-f2b3-11ea-952a-5901e397599f.png)
 ---
 *Analysis of Outcomes Based on Goals*
-* To further analyze the trend, the study also look into the percentage of successful, failed, and cancels campaign in relation to campaign goal range. The purpose of this analysis is to understand if the range of goal amount constribute to higher campaign success rate.  
+* To further analyze the trend, the study also look into the percentage of successful, failed, and cancels campaign in relation to campaign goal range. The purpose of this analysis is to understand if the range of goal amount constribute to higher campaign success rate. 
+---
 The chart below previews the Outcome based on Goals
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/70525492/92654413-65414480-f2b5-11ea-9e41-f915b27e588d.png)
+---
+*Challenges and Difficulties Encountered*
