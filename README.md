@@ -11,4 +11,5 @@
 - Failed: 493
 - Canceled: 37 
 * Aside from analyzing total outcomes, the study also break down the category into monthly bucket the observe the trend of successful, failed, and canceled campaign. Here's a snapshot of the monthly trend chart breaking down into total successful, failed, and canceled campaign. 
-![Theater_Outcomes_vs_Launch](C:\Users\fuike\OneDrive\Desktop\Vanderbilt Course Work\Module 1 - MS Excel\Crowd Funding\Resources/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70525492/92652912-375b0080-f2b3-11ea-952a-5901e397599f.png)
+
