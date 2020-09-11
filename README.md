@@ -11,7 +11,6 @@ A new data set, year, is added to a new column created on the kickstarter tab in
 | Successful  |  839  |
 | Failed      |  493  |
 | Canceled    |  37   |
-| ----------- | ----- |
 | Total       | 1397  |
 #### *Theater Outcome vs. Launch Month Trend Chart*
 A line chart is created to visualize the outcome categories by month
