@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaign
 ---
-## Overview of Project
+## **Overview of Project**
 ### Purpose
 * The purpose of the analysis is to analyze the trend of kickstarter campaign in relation to their launch date and funding goals. 
-## Analysis and Challenges
-### Analysis of Outcomes Based on Launch Date
+### Analysis and Challenges
+#### *Analysis of Outcomes Based on Launch Date*
 The analysis of kickstarter campaign is focusing on Theater as the parent category with study period from the year 2009 to 2017. A Pivot Table is used to categorize and filter the years and parent category. The result was a total of 1,369 kickstarter campaigns were launched during this time period.The total count of Successful, Failed, and Canceled campaign can be summarized as follow:
 |   Results   | Count |
 | ----------- | ----- | 
