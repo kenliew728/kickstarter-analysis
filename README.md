@@ -2,18 +2,17 @@
 ---
 ## **Overview of Project**
 ### Purpose
-* The purpose of the analysis is to analyze the trend of kickstarter campaign in relation to their launch date and funding goals. 
+The purpose of the project is to analyze the trend of kickstarter campaign outcome in relation to their launch date and funding goals. The theater parent category will be the primary focus of the study spanning from the year 2009 to 2017.
 ### Analysis and Challenges
 #### *Analysis of Outcomes Based on Launch Date*
-The analysis of kickstarter campaign is focusing on Theater as the parent category with study period from the year 2009 to 2017. A Pivot Table is used to categorize and filter the years and parent category. The result was a total of 1,369 kickstarter campaigns were launched during this time period.The total count of Successful, Failed, and Canceled campaign can be summarized as follow:
+A new data set, year, is added to a new column in order to extract the year from the "Date Created Conversion" column. The next step is to create a pivot table to create a table that consist of the parent category and year as filter and date created and count of outcomes as results. Based on the results, there were a total of 1,369 kickstarter campaigns launched during the study period. The study outcome can be summarized in the table below.  
 |   Results   | Count |
 | ----------- | ----- | 
 | Successful  |  839  |
 | Failed      |  493  |
 | Canceled    |  37   |
-```
-Aside from analyzing total outcomes, the study also break down the category into monthly bucket to observe the trend of successful, failed, and canceled campaign. Here is a snapshot of the monthly trend chart breaking down into total successful, failed, and canceled campaign.
-```
+---
+In order to observe the outcome result by month, a line chart is created to visualize the outcome by month. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70525492/92652912-375b0080-f2b3-11ea-952a-5901e397599f.png)
 ---
 *Analysis of Outcomes Based on Goals*
