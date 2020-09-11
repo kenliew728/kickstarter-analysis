@@ -23,5 +23,6 @@ A second study was added to understand the outcomes of kickstarter campaign base
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/70525492/92654413-65414480-f2b5-11ea-9e41-f915b27e588d.png)
 ---
 #### *Challenges and Difficulties Encountered*
-The report compilation was not without its challenges. It was not easy to figure out on how to insert screen shot into a Github readme content. I was able to research through Google on some of the method used to insert screen shot. The one I picked was to drag my PNG file into the Github's issues tab and copy and paste the link created into Github's readme content. The end results were satisfactory. 
-The main difficulty was trying to insert screenshots of the chart into Github readable code. Regression analysis, statistical analysis, 
+The report compilation was not without its challenges. It was not easy to figure out on how to insert screen shot into a Github readme content. I was able to research through Google on some of the method used to insert screen shot. The one I picked was to drag my PNG file into the Github's issues tab and copy and paste the link created into Github's readme content. The end results were satisfactory. The next challenge was to create the right header and table format. I was able to learn the basic wrtting and formatting syntax through the link provided on the module and was able to try different syntaxes in this kickstarter report.
+## Results
+
