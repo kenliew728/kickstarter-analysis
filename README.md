@@ -25,4 +25,14 @@ A second study was added to understand the outcomes of kickstarter campaign base
 #### *Challenges and Difficulties Encountered*
 The report compilation was not without its challenges. It was not easy to figure out on how to insert screen shot into a Github readme content. I was able to research through Google on some of the method used to insert screen shot. The one I picked was to drag my PNG file into the Github's issues tab and copy and paste the link created into Github's readme content. The end results were satisfactory. The next challenge was to create the right header and table format. I was able to learn the basic wrtting and formatting syntax through the link provided on the module and was able to try different syntaxes in this kickstarter report.
 ## Results
+#### *Theater Outcomes relative to Launch Date*
+The following conclusions can be made about the Theater Outcomes based on Launch date
+1. The kickstarter campaign had the best outcome during summer in the month of May
+   - Summer is typically a vacation season and more people are willing to attend plays in theater.
+2. The outcome continues in a downward trend from summer to winter in December
+   - In constrast to summer, fall to early winter is typically a slower season due to the fact that most people are at work or kids are at school.
+#### *Outcome based on Goals*
+The following conclusion can be made on the outcomes based on goals
+1. The number of successful outcomes is higher if the funding goals is less than $1000, which represents 75.8% success rate. It is followed closely by the funding goals between $1000 and $4999, which has a success rate of 72.7%. 
+ 
 
