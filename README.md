@@ -11,15 +11,15 @@ A new data set, year, is added to a new column in order to extract the year from
 | Successful  |  839  |
 | Failed      |  493  |
 | Canceled    |  37   |
----
-In order to observe the outcome result by month, a line chart is created to visualize the outcome by month. 
+#### *Theater Outcome vs. Launch Month Trend Chart*
+A line chart is created to visualize the outcome categories by month
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70525492/92652912-375b0080-f2b3-11ea-952a-5901e397599f.png)
 ---
-*Analysis of Outcomes Based on Goals*
-* To further analyze the trend, the study also look into the percentage of successful, failed, and cancels campaign in relation to campaign goal range. The purpose of this analysis is to understand if the range of goal amount constribute to higher campaign success rate. 
----
-* The chart below previews the Outcome based on Goals
+#### *Analysis of Outcomes Based on Goals*
+A second study was added to understand the outcomes of kickstarter campaign based on funding goal. A range of funding goal is created in a table format. Using the "CountIfs" function, the table conduct a count of number of successful, failed, and canceled campaign. The data is then use to calculate the percentage of each category. Once completed, a chart is plotted to visualize the trend of each category to the range of funding goals. This will allow us to analyze if the funding goal influence the success rate of kickstarter campaign. 
+#### *Kickstarter Campaign Outcomes vs Funding Goal Range Chart*
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/70525492/92654413-65414480-f2b5-11ea-9e41-f915b27e588d.png)
 ---
 ### Challenges and Difficulties Encountered*
-The main difficulty was trying to insert screenshots of the chart into Github readable code. 
+The main difficulty was trying to insert screenshots of the chart into Github readable code. Regression analysis, statistical analysis, 
