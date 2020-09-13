@@ -39,9 +39,5 @@ The kickstarter campaign outcomes based on launch date and goals have provided a
 1. Include count of successful outcomes based on the range of funding goals and total days to reach. This will allow us understand if lower funding goals also take lesser day achieve its goal. If the analysis shows that lower funding goals also taking longer to achieve, launching a campaign with lower funding goals may not be a best option. Here are the example:
 ![Additional Analysis](https://user-images.githubusercontent.com/70525492/93029703-b49fb180-f5e2-11ea-8b7a-ef7d3710de59.png)
 2. A line chart can be plotted based on the range of funding goals and days to reach to visualize the study. In this example, the chart is showing that a lower funding goal has a higher rate of reaching its goal in less than 30 days but the conclusion may not be as strong as Outcomes based on Goal only.
-
-
-
-
- 
-
+![Additional Chart Analysis](https://user-images.githubusercontent.com/70525492/93029909-6db2bb80-f5e4-11ea-98bf-19a26c3c2fe5.png)
+3. Additional statistical analysis may be needed in order to draw a stronger conclusion on the outcomes of kickstarter campaign. Nevertheless, the goal of this study is to optimize variables needed in order to achieve the best outcome. 
