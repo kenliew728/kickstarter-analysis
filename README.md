@@ -38,7 +38,8 @@ The following conclusion can be made on the outcomes based on goals
 The kickstarter campaign outcomes based on launch date and goals have provided a visual conclusion that it is advisable to launch a campaign in May with a funding goal of less than $1000 to achieve a higher success rate. However, we cannot be certain that whether the two variables are sufficient to launch a kickstarter campaign. Here are the additional analyses that can be used to draw aditional conclusion.
 1. Include count of successful outcomes based on the range of funding goals and total days to reach. This will allow us understand if lower funding goals also take lesser day achieve its goal. If the analysis shows that lower funding goals also taking longer to achieve, launching a campaign with lower funding goals may not be a best option. Here are the example:
    - An additional line chart can be plotted based on the range of funding goals and days to reach to further understand the outcome of the study. 
-![Additional Analysis](https://user-images.githubusercontent.com/70525492/93029593-adc46f00-f5e1-11ea-85ba-e6ad5adf76b5.png)
+![Additional Analysis](https://user-images.githubusercontent.com/70525492/93029703-b49fb180-f5e2-11ea-8b7a-ef7d3710de59.png)
+
 
 
 
